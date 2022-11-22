@@ -1,0 +1,15 @@
+/Users/carolineveloso/Desktop/bank/bin/Debug/net7.0/bank
+/Users/carolineveloso/Desktop/bank/bin/Debug/net7.0/bank.deps.json
+/Users/carolineveloso/Desktop/bank/bin/Debug/net7.0/bank.runtimeconfig.json
+/Users/carolineveloso/Desktop/bank/bin/Debug/net7.0/bank.dll
+/Users/carolineveloso/Desktop/bank/bin/Debug/net7.0/bank.pdb
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.csproj.AssemblyReference.cache
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.AssemblyInfoInputs.cache
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.AssemblyInfo.cs
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.csproj.CoreCompileInputs.cache
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.dll
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/refint/bank.dll
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.pdb
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/bank.genruntimeconfig.cache
+/Users/carolineveloso/Desktop/bank/obj/Debug/net7.0/ref/bank.dll
